@@ -1,0 +1,9 @@
+package com.adampjr.java2048;
+
+public class Java2048 {
+	
+	public static void main(String[] args) {
+		// do nothing
+	}	
+	
+}

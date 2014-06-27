@@ -1,0 +1,14 @@
+package com.adampjr.java2048;
+
+public class Java2048 {
+	
+	public static void main(String[] args) {
+		Game g = new Game();
+		g.printArray();
+		for (int x = 0; x < 10; x++) {
+			g.addNewNumber();
+			g.printArray();
+		}
+	}	
+	
+}
